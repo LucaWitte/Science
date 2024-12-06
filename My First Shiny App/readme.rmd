@@ -1,0 +1,5 @@
+With this app, I started exploring App development in R Shiny. 
+I started this to deliver some simple visualization apps to the Ophtalmology Institute where my girlfriend was working at the time. 
+She asked me about a way to automate visualizations in Excel to show trends to her patients, and as I was interested in getting my hands on shiny app development anyways, I offered to build some small useful applications.
+
+Here is the first framework I built, that was used in the store and inspired the manufacturer of a device to build their own tool (we had a few chats with them). 
